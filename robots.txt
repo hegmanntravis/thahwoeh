@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ievohcha.mathewsanders.com/sitemap.xml
